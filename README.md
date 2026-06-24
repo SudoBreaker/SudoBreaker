@@ -1,3 +1,7 @@
+## 👋 About Me
+I am a solutions-driven Software Developer with more than 3 years of hands-on experience spanning full-stack development, cloud-native AI systems, and enterprise IT infrastructure management. I specialize in building robust, standalone desktop and web solutions, automating critical corporate compliance workflows, and optimizing complex hybrid network environments. Known for taking sole technical ownership of enterprise software lifecycles from concept to deployment.
+
+
 Technical Project Portfolio | Enterprise Architecture & Full-Stack Engineering  
 **Developer:** Tsepo Tonny Seroka  
 **Target Role:** Mid-Level Software Developer / Senior Software Developer  
