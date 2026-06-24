@@ -13,7 +13,7 @@ Technical Project Portfolio | Enterprise Architecture & Full-Stack Engineering
 
 ### 1. Hospital Downtime Business Continuity Application
 - **Environment:** Steve Biko Academic Hospital (Clinical Infrastructure)  
-- **Role:** Lead Software Engineer (End-to-End SDLC)  
+- **Role:** Lead Software Developer (End-to-End SDLC)  
 - **Tech Stack:** Custom MVC PHP Framework, JavaScript, HTML5/CSS3, PHP Desktop (Chromium/Mongoose Embedded Engine), Inno Setup Installer  
 
 #### 📋 Project Overview
@@ -32,7 +32,7 @@ Designed and engineered a standalone, portable desktop application to maintain c
 
 ### 2. RWOPS (Remunerative Work Outside Public Service) Enterprise System
 - **Environment:** Steve Biko Academic Hospital (Internal Administration)  
-- **Role:** Lead Full-Stack Architect  
+- **Role:** Lead Full-Stack Developer  
 - **Tech Stack:** Custom MVC PHP Framework, MySQL, PHPMailer, jQuery, Bootstrap, JavaScript  
 
 #### 📋 Project Overview
@@ -52,7 +52,7 @@ Conceptualized and built a secure, digital compliance workflow system to replace
 ### 3. Anita 2.0 – AI Legal Assistant Web-Chatbot
 - **Environment:** Brand Ibex (Lawfinder)  
 - **Link:** [Live Application Preview](#)  
-- **Role:** Core AI & Backend Engineer  
+- **Role:** Lead Application Developer  
 - **Tech Stack:** Python, OpenAI API, Vector Databases (RAG), Custom MVC PHP Framework, jQuery, Bootstrap  
 
 #### 📋 Project Overview
@@ -70,7 +70,7 @@ An advanced, multi-turn AI legal intelligence platform supporting all 11 officia
 
 ### 4. Ibex Mailer – Asynchronous Enterprise Marketing Ecosystem
 - **Environment:** Brand Ibex (Lawfinder) — Decommissioned Legacy Case Study  
-- **Role:** Senior Lead Backend Developer  
+- **Role:** Lead Backend Developer  
 - **Tech Stack:** Next.js, Custom MVC PHP Framework, RabbitMQ, MySQL, PHPMailer, RESTful APIs  
 
 #### 📋 Project Overview
