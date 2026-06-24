@@ -90,7 +90,7 @@ A complex, highly decoupled multi-channel digital marketing engine featuring a c
 ## 🧪 Open-Source & Experimental Initiatives
 
 ### 5. Smart-Shopper – Serverless Grocery Analytics
-- **Source & Live Deployment:** [GitHub Repository & Link – Launching Soon](#)  
+- **Source & Live Deployment:** [Live Demo](https://sudobreaker.github.io/smart-shopper/)  
 - **Role:** Independent Creator  
 - **Tech Stack:** JavaScript (ES6+), Firebase Firestore, HTML5, CSS3  
 
