@@ -51,7 +51,7 @@ Conceptualized and built a secure, digital compliance workflow system to replace
 
 ### 3. Anita 2.0 – AI Legal Assistant Web-Chatbot
 - **Environment:** Brand Ibex (Lawfinder)  
-- **Link:** [https://www.lawfinder.co.za/](#)  
+- **Link:** [Live Application Preview](https://www.lawfinder.co.za/)  
 - **Role:** Lead Application Developer  
 - **Tech Stack:** Python, OpenAI API, Vector Databases (RAG), Custom MVC PHP Framework, jQuery, Bootstrap  
 
